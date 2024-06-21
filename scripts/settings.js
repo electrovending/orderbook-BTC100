@@ -14,8 +14,8 @@ export const tabs = [
 
 // Data Settings
 export const data = {};
-export const ticker = "WLDUSDT";
-export const tickSize = 0.5;
+export const ticker = "BTCUSDT";
+export const tickSize = 100;
 
 export const priceColDecimalLength = 2;
 export const otherColsDecimalLength = 2;
